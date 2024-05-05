@@ -1,0 +1,14 @@
+.bg_navbar{
+    background-color:#2b2d42;
+}
+/* .bg_shopData{
+    background-color: #8d99ae;
+} */
+.form-control{
+   width: 300px;
+    margin: 0px 5px;
+}
+.form-select{
+    width: 350px;
+    margin: 0px 5px;
+}
