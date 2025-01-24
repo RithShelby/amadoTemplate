@@ -7,7 +7,6 @@ import img5 from "../../../assets/image/5.jpg";
 import img1 from "../../../assets/image/1.jpg";
 import { BiSolidCategory } from "react-icons/bi";
 import { FaBagShopping } from "react-icons/fa6";
-import { useToast } from "@chakra-ui/react";
 import {
   RangeSlider,
   RangeSliderTrack,

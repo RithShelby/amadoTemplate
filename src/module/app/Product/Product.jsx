@@ -72,16 +72,6 @@ const Product = () => {
                     />
                   </div>
                 ))}
-                {/* {modalOpen &&
-                  <div id="myModal" className="myModal px-5" onClick={handleWindowClick}>
-                    <div id="modalContent" className="d-flex align-items-center justify-content-center mt-5">
-                      <div className="d-flex flex-row">
-                        <img id="modalImage" alt="Full-size Image" src={modalImageSrc} className="w-100 h-auto" />
-                        <i className="close fa-solid fa-x fs-6 text-white h-25 bg-warning p-1 opacity-75" onClick={closeModal}></i>
-                      </div>
-                    </div>
-                  </div>
-                } */}
               </div>
               <div className="row mt-3 ">
                 {[imgPro1, imgPro2, imgPro5, imgPro8].map((imgSrc, index) => (
